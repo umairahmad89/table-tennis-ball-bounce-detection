@@ -1,0 +1,5 @@
+# Ignore specific files and directories
+dataset/train_markups.json
+dataset/test_markups.json
+*.pkl
+__pycache__/
